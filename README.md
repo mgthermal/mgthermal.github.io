@@ -1,1 +1,1 @@
-# mgthermal.gitbub.io
+# mgthermal.github.io
